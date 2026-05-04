@@ -1,0 +1,7 @@
+Needlemana-Wunscha
+https://rna.informatik.uni-freiburg.de/Teaching/index.jsp?toolName=Needleman-Wunsch 
+(Kilka Rozwiązań)
+
+Smitha-Watermana
+https://rna.informatik.uni-freiburg.de/Teaching/index.jsp?toolName=Smith-Waterman
+(Kilka Rozwiązań)
